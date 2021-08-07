@@ -2,11 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-<<<<<<< HEAD
       SIT Subject Reservation Web Test
-=======
-      SIT Subject Reservation Web on feature/list-subjects
->>>>>>> bc81686f2b57e84dfb1d6e0459c53d985651972e
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
